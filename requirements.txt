@@ -1,6 +1,24 @@
-mpris_server>=0.9
-pyfoobeef
-pyyaml
-pygobject
-pygobject-stubs
-requests
+-i https://pypi.org/simple
+aiohappyeyeballs==2.6.1; python_version >= '3.9'
+aiohttp==3.13.0; python_version >= '3.9'
+aiohttp-sse-client==0.2.1
+aiosignal==1.4.0; python_version >= '3.9'
+attrs==25.4.0; python_version >= '3.9'
+certifi==2025.10.5; python_version >= '3.7'
+charset-normalizer==3.4.4; python_version >= '3.7'
+emoji==1.7.0
+frozenlist==1.8.0; python_version >= '3.9'
+idna==3.11; python_version >= '3.8'
+mpris-server==0.4.2; python_version >= '3.7'
+multidict==6.7.0; python_version >= '3.9'
+propcache==0.4.1; python_version >= '3.9'
+pycairo==1.28.0; python_version >= '3.9'
+pydbus==0.6.0
+pyfoobeef==0.9.0.4; python_version >= '3.6'
+pygobject==3.54.3; python_version >= '3.9'
+pygobject-stubs==2.13.0; python_version >= '3.9'
+pyyaml==6.0.3; python_version >= '3.8'
+requests==2.32.5; python_version >= '3.9'
+unidecode==1.4.0; python_version >= '3.7'
+urllib3==2.5.0; python_version >= '3.9'
+yarl==1.22.0; python_version >= '3.9'
